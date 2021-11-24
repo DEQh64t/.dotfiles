@@ -1,0 +1,13 @@
+[character]
+success_symbol = "[>](bold green)"
+error_symbol = "[>](bold red)"
+
+[conda]
+ignore_base = false
+truncation_length = "0"
+
+[python]
+python_binary = ["python3"]
+
+[rlang]
+disabled = true

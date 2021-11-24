@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = dev
+[pager]
+	diff = delta
+[user]
+	name = DEQh64t
+	email = DEQh64t@gmail.com
